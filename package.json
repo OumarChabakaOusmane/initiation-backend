@@ -1,0 +1,25 @@
+{
+  "name": "initiation-backend",
+  "version": "1.0.0",
+  "description": "initiation aux backend avec nodejs et express",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OumarChabakaOusmane/initiation-backend.git"
+  },
+  "keywords": [
+    "initiation",
+    "backend",
+    "nodejs",
+    "express"
+  ],
+  "author": "Oumar Chabaka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OumarChabakaOusmane/initiation-backend/issues"
+  },
+  "homepage": "https://github.com/OumarChabakaOusmane/initiation-backend#readme"
+}
